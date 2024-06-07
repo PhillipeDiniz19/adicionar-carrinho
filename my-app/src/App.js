@@ -33,6 +33,8 @@ const App = () => {
     setCart(cart.filter(item => item.id !== product.id));
   };
 
+  console.log(cart)
+
   return (
     <div className="app-container">
       <div className="search-bar">

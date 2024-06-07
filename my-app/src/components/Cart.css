@@ -54,3 +54,10 @@
 .remove-button:hover {
   background-color: #ff1a1a;
 }
+
+.cart-total {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: right;
+}
